@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Mostafa Abdelhamid and working as a Software Engineer.
+# I am Mostafa Abdelhamid and working as a Software Developer.
 ### for more information you can visit my website.
 ## https://mostafa-abdelhamid.com
 <!--
