@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Mostafa Abdelhamid and working as a Front-end Developer at Genovity.
+# I am Mostafa Abdelhamid, working as a Front-end Developer at Genovity.
 ## for more information you can visit my website.
 # https://mostafa-abdelhamid.com
 <!--
