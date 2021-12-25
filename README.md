@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Mostafa Abdelhamid, working as a Software Developer.
+# I am Mostafa Abdelhamid, working as a Front-end and Cross-platform Mobile Developer.
 ## for more information you can visit my website.
 # https://mostafa-abdelhamid.com
 <!--
