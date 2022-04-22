@@ -153,14 +153,6 @@
             height="40"
         />
     </a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-            alt="gulp"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -201,14 +193,6 @@
         <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
             alt="jest"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-            alt="mocha"
             width="40"
             height="40"
         />
