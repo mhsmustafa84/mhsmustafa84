@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abdelhamid</h1>
-<h3 align="center">A passionate software developer</h3>
-
+<h2 align="center">A passionate software developer</h2>
+<br />
 <p align="center">
     <img 
          src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
@@ -15,15 +15,27 @@
         alt="mhsmustafa84"
     />
 </p>
-
+<br />
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img 
-             src="https://github-profile-trophy.vercel.app/?username=mhsmustafa84" 
-             alt="mhsmustafa84"
-        />
-    </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" />
 </p>
+<br />
+
+- 🔭 I’m currently working as **Frontend Developer**
+
+- 🌱 I’m currently learning **Node.js and Next.js**
+
+- 👨‍💻 All of my projects are available at [mostafa-abdelhamid.com](mostafa-abdelhamid.com)
+
+- 💬 Ask me about **React, Angular and Flutter**
+
+- 📫 How to reach me **info@mostafa-abdelhamid.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
+
+- ⚡ Fun fact **React is still the King**
+
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
     <a 
@@ -58,36 +70,91 @@
     </a>
 </p>
 
-- 🔭 I’m currently working as **Frontend Developer**
-
-- 🌱 I’m currently learning **Node.js and Next.js**
-
-- 👨‍💻 All of my projects are available at [mostafa-abdelhamid.com](mostafa-abdelhamid.com)
-
-- 💬 Ask me about **React, Angular and Flutter**
-
-- 📫 How to reach me **info@mostafa-abdelhamid.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
-
-- ⚡ Fun fact **React is still the King**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://dev.to/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://twitter.com/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://fb.com/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://instagram.com/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://medium.com/@mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mhsmustafa84" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhsmustafa84" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mhsmustafa84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mhsmustafa84" height="30" width="40" /></a>
+<p align="center">
+    <a 
+       href="https://codepen.io/mhsmustafa84" 
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://dev.to/mhsmustafa84" 
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://stackoverflow.com/users/mhsmustafa84" 
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://instagram.com/mhsmustafa84" 
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://medium.com/@mhsmustafa84"
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="@mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://www.hackerrank.com/mhsmustafa84"
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a 
+       href="https://www.leetcode.com/mhsmustafa84" 
+       target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="mhsmustafa84"
+            height="30"
+            width="40"
+        />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
