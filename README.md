@@ -3,9 +3,9 @@
 <br />
 
 <p align="center">
-    <img 
-         src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
-         alt="mhsmustafa84"
+    <img
+        src="https://badges.pufler.dev/years/mhsmustafa84"
+        alt="mhsmustafa84"
     />
     <img
         src="https://badges.pufler.dev/repos/mhsmustafa84"
@@ -13,6 +13,28 @@
     />
     <img
         src="https://img.shields.io/github/followers/mhsmustafa84?label=Followers"
+        alt="mhsmustafa84"
+    />
+    <img 
+         src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
+         alt="mhsmustafa84"
+    />
+</p>
+<p align="center">
+    <img
+        src="https://badges.pufler.dev/commits/daily/mhsmustafa84"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/monthly/mhsmustafa84"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/yearly/mhsmustafa84"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/all/mhsmustafa84"
         alt="mhsmustafa84"
     />
 </p>
