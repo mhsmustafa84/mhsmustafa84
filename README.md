@@ -424,10 +424,9 @@
         />
     </a>
 </p>
+<br />
 
-
-## Stats
-
+## 💹 GitHub Profile Stats
 <p align="center">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsmustafa84&layout=compact&theme=dark&card_width=450"
@@ -442,6 +441,8 @@
     />
 </p>
 <br />
+
+## 🔁 Streak Stats
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhsmustafa84&theme=dark" />
 </p>
