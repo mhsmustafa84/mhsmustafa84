@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abdelhamid</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left">
+<p align="center">
     <img 
          src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
          alt="mhsmustafa84"
@@ -16,9 +16,47 @@
     />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhsmustafa84" alt="mhsmustafa84" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=mhsmustafa84" 
+             alt="mhsmustafa84"
+        />
+    </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/mhsmustafa84" target="blank"><img src="https://img.shields.io/twitter/follow/mhsmustafa84?logo=twitter&style=for-the-badge" alt="mhsmustafa84" /></a> </p>
+<p align="center">
+    <a 
+       href="https://twitter.com/mhsmustafa84" 
+       target="blank"
+    >
+        <img 
+             src="https://img.shields.io/twitter/follow/mhsmustafa84?logo=twitter&style=for-the-badge" 
+             alt="mhsmustafa84" 
+        />
+    </a>
+</p>
+
+<p align="center">
+    <a href="mailto:mhsmustafa84@gmail.com">
+        <img
+            src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
+            alt="Gmail"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/mhsmustafa84">
+        <img
+            src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+        />
+    </a>
+    <a href="https://www.facebook.com/mhsmustafa84">
+        <img
+            src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
+            alt="Facebook"
+        />
+    </a>
+</p>
 
 - 🔭 I’m currently working as **Frontend Developer**
 
