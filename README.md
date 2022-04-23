@@ -252,11 +252,6 @@
         src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
     />
     <img
-        alt="firebase"
-        title="firebase"
-        src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-    />
-    <img
         alt="mongodb"
         title="mongodb"
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -270,6 +265,16 @@
         alt="sql"
         title="sql"
         src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
+    />
+    <img
+        alt="firebase"
+        title="firebase"
+        src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+    />
+    <img
+        alt="WordPress"
+        title="WordPress"
+        src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
     />
 </p>
 <br />
