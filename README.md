@@ -369,3 +369,11 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhsmustafa84&theme=dark" />
 </p>
+<br />
+
+
+## 📊 Activity Graph
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mhsmustafa84&bg_color=151515&color=fdfdfd&line=79fe96&point=fdfdfd&area=true&hide_border=true" />
+</p>
+<br />
