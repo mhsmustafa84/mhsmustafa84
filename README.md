@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abdelhamid</h1>
 <h2 align="center">A passionate software developer</h2>
 <br />
+
 <p align="center">
     <img 
          src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
@@ -14,10 +15,6 @@
         src="https://img.shields.io/github/followers/mhsmustafa84?label=Followers"
         alt="mhsmustafa84"
     />
-</p>
-<br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" />
 </p>
 <br />
 
@@ -36,7 +33,6 @@
 - ⚡ Fun fact **React is still the King**
 
 <h3 align="center">Connect with me:</h3>
-
 <p align="center">
     <a 
        href="https://twitter.com/mhsmustafa84" 
@@ -426,7 +422,13 @@
 </p>
 <br />
 
-## 💹 GitHub Profile Stats
+## 🏆 Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed" />
+</p>
+<br />
+
+## 💹 Profile Stats
 <p align="center">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsmustafa84&layout=compact&theme=dark&card_width=450"
