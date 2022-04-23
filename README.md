@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abdelhamid</h1>
-<h2 align="center">A passionate software developer</h2>
+<h2 align="center">A passionate Software Developer</h2>
 <br />
 
 <p align="center">
@@ -40,21 +40,27 @@
 </p>
 <br />
 
-- 🔭 I’m currently working as **Frontend Developer**
 
-- 🌱 I’m currently learning **Node.js and Next.js**
+
+## 💁 About me
+- 🔭 I’m currently working as **Frontend Developer** @ **Genovity**
+
+- 🌱 I’m currently learning **Node.js** and **Next.js**
 
 - 👨‍💻 All of my projects are available at [mostafa-abdelhamid.com](mostafa-abdelhamid.com)
 
-- 💬 Ask me about **React, Angular and Flutter**
+- 💬 Ask me about **React**, **Angular** and **Flutter**
 
 - 📫 How to reach me **info@mostafa-abdelhamid.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
 
 - ⚡ Fun fact **React is still the King**
+<br />
 
-<h3 align="center">Connect with me:</h3>
+
+
+## 📞 Connect with me
 <p align="center">
     <a 
        href="https://twitter.com/mhsmustafa84" 
@@ -66,7 +72,6 @@
         />
     </a>
 </p>
-
 <p align="center">
     <a href="mailto:mhsmustafa84@gmail.com">
         <img
@@ -87,7 +92,6 @@
         />
     </a>
 </p>
-
 <p align="center">
     <a 
        href="https://codepen.io/mhsmustafa84" 
@@ -174,6 +178,10 @@
         />
     </a>
 </p>
+<br />
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
