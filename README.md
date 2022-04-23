@@ -62,7 +62,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
 
 - ⚡ Fun fact **React is still the King**
-<br />
 
 
 
