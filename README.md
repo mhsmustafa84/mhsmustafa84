@@ -425,10 +425,11 @@
     </a>
 </p>
 
-<p>
+
+<br />
+<p align="center">
     <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mhsmustafa84&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsmustafa84&layout=compact&theme=dark&card_width=450"
         alt="mhsmustafa84"
     />
 </p>
