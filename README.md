@@ -3,44 +3,44 @@
 
 
 <p align="center">
-    <img
-        src="https://badges.pufler.dev/years/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-    <img
-        src="https://badges.pufler.dev/repos/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-    <img
-        src="https://img.shields.io/github/followers/mhsmustafa84?label=Followers"
-        alt="mhsmustafa84"
-    />
-</p>
-<p align="center">
-    <img
-        src="https://badges.pufler.dev/commits/daily/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/monthly/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/yearly/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-    <img
-        src="https://badges.pufler.dev/commits/all/mhsmustafa84"
-        alt="mhsmustafa84"
-    />
-</p>
-<p align="center">
     <img 
          src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=brightgreen&style=for-the-badge" 
          alt="mhsmustafa84"
     />
 </p>
-<br />
+<p align="center">
+    <img
+        src="https://badges.pufler.dev/years/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/repos/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://img.shields.io/github/followers/mhsmustafa84?color=brightgreen&style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+</p>
+<p align="center">
+    <img
+        src="https://badges.pufler.dev/commits/daily/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/monthly/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/yearly/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/commits/all/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+</p>
+
 
 
 
