@@ -47,7 +47,7 @@
 <br />
 
 
-## 💁 About me
+## 💁 About
 - 🔭 I’m currently working as **Frontend Developer** @ **Genovity**
 
 - 🌱 I’m currently learning **Node.js** and **Next.js**
@@ -64,7 +64,7 @@
 <br />
 
 
-## 📞 Connect with me
+## 📞 Connect
 <p align="center">
     <a href="https://twitter.com/mhsmustafa84" target="blank">
         <img 
@@ -150,7 +150,6 @@
     </a>
 </p>
 <br />
-
 
 
 ## 💡 My Skills
