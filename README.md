@@ -155,7 +155,6 @@
 
 ## 💡 My Skills
 
-<p align="center">🔶 Programming Languages</p>
 <p align="center">
     <img
         alt="javascript"
@@ -182,11 +181,7 @@
         title="c++"
         src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
     />
-</p>
-<br />
-
-<p align="center">🔶 Frontend Technologies</p>
-<p align="center">
+    <br />
     <img
         alt="html"
         title="html"
@@ -237,11 +232,6 @@
         title="angular"
         src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
     />
-</p>
-<br />
-
-<p align="center">🔶 Backend and Databases</p>
-<p align="center">
     <img
         alt="node.js"
         title="node.js"
@@ -277,11 +267,6 @@
         title="WordPress"
         src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
     />
-</p>
-<br />
-
-<p align="center">🔶 Mobile Technologies</p>
-<p align="center">
     <img
         alt="Flutter"
         src="https://img.shields.io/badge/Flutter%20-%23F05033.svg?style=for-the-badge&logo=flutter&logoColor=white"
@@ -290,11 +275,7 @@
         alt="React Native"
         src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=for-the-badge&logo=react&nativeColor=white"
     />
-</p>
-<br />
-
-<p align="center">🔶 Software & Tools</p>
-<p align="center">
+    <br />
     <img
          alt="npm"
          title="npm"
