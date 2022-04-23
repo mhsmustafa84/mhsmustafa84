@@ -440,11 +440,7 @@
         alt="mhsmustafa84"
     />
 </p>
-
-<p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mhsmustafa84&"
-        alt="mhsmustafa84"
-    />
+<br />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhsmustafa84&theme=dark" />
 </p>
