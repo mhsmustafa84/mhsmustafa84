@@ -28,6 +28,10 @@
         alt="mhsmustafa84"
     />
     <img
+        src="https://badges.pufler.dev/commits/weekly/mhsmustafa84?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
         src="https://badges.pufler.dev/commits/monthly/mhsmustafa84?style=for-the-badge"
         alt="mhsmustafa84"
     />
