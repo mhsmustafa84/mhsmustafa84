@@ -253,39 +253,24 @@
         src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
     />
     <img
+        alt="firebase"
+        title="firebase"
+        src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
+    />
+    <img
         alt="mongodb"
         title="mongodb"
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     />
     <img
-        alt="mysql"
-        title="mysql"
-        src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+        alt="mariadb"
+        title="mariadb"
+        src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
     />
     <img
         alt="sql"
         title="sql"
         src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
-    />
-</p>
-<br />
-
-<p align="center">🔶 Software & Tools</p>
-<p align="center">
-    <img 
-         alt="git"
-         title="git"
-         src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
-    />
-    <img
-         alt="github"
-         title="github"
-         src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img
-         alt="gitlab"
-         title="gitlab"
-         src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
     />
 </p>
 <br />
@@ -302,6 +287,57 @@
     />
 </p>
 <br />
+
+<p align="center">🔶 Software & Tools</p>
+<p align="center">
+    <img
+         alt="npm"
+         title="npm"
+         src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+    />
+    <img 
+         alt="git"
+         title="git"
+         src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+    />
+    <img
+         alt="github"
+         title="github"
+         src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img
+         alt="gitlab"
+         title="gitlab"
+         src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
+    />
+    <img
+         alt="webpack"
+         title="webpack"
+         src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+    />
+    <img
+         alt="babel"
+         title="babel"
+         src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"
+    />
+    <img
+         alt="eslint"
+         title="eslint"
+         src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"
+    />
+    <img
+         alt="jasmine"
+         title="jasmine"
+         src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"
+    />
+    <img
+         alt="jira"
+         title="jira"
+         src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+    />
+</p>
+<br />
+
 
 ## 🏆 Profile Trophies
 <p align="center">
