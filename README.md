@@ -62,15 +62,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing)
 
 - ⚡ Fun fact **React is still the King**
-
+<br />
 
 
 ## 📞 Connect with me
 <p align="center">
-    <a 
-       href="https://twitter.com/mhsmustafa84" 
-       target="blank"
-    >
+    <a href="https://twitter.com/mhsmustafa84" target="blank">
         <img 
              src="https://img.shields.io/twitter/follow/mhsmustafa84?logo=twitter&style=for-the-badge" 
              alt="mhsmustafa84" 
@@ -78,108 +75,68 @@
     </a>
 </p>
 <p align="center">
-    <a href="mailto:mhsmustafa84@gmail.com">
+    <a href="mailto:mhsmustafa84@gmail.com" target="blank">
         <img
-            src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Gmail"
         />
     </a>
-    <a href="https://www.linkedin.com/in/mhsmustafa84">
+    <a href="https://www.linkedin.com/in/mhsmustafa84" target="blank">
         <img
-            src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn"
         />
     </a>
-    <a href="https://www.facebook.com/mhsmustafa84">
+    <a href="https://www.facebook.com/mhsmustafa84" target="blank">
         <img
-            src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
+            src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
             alt="Facebook"
         />
     </a>
+    <a href="https://www.instagram.com/mhsmustafa84" target="blank">
+        <img
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram"
+        />
+    </a>
 </p>
+
+
 <p align="center">
-    <a 
-       href="https://codepen.io/mhsmustafa84" 
-       target="blank"
-    >
+    <a href="https://codepen.io/mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+            alt="codepen"
         />
     </a>
-    <a 
-       href="https://dev.to/mhsmustafa84" 
-       target="blank"
-    >
+    <a href="https://stackoverflow.com/users/mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+            alt="stackoverflow"
         />
     </a>
-    <a 
-       href="https://stackoverflow.com/users/mhsmustafa84" 
-       target="blank"
-    >
+    <a href="https://dev.to/mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+            alt="dev.to"
         />
     </a>
-    <a 
-       href="https://instagram.com/mhsmustafa84" 
-       target="blank"
-    >
+    <a href="https://medium.com/@mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+            alt="medium"
         />
     </a>
-    <a 
-       href="https://medium.com/@mhsmustafa84"
-       target="blank"
-    >
+    <a href="https://www.hackerrank.com/mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+            alt="hackerrank"
         />
     </a>
-    <a 
-       href="https://www.hackerrank.com/mhsmustafa84"
-       target="blank"
-    >
+    <a href="https://www.leetcode.com/mhsmustafa84" target="blank">
         <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
-        />
-    </a>
-    <a 
-       href="https://www.leetcode.com/mhsmustafa84" 
-       target="blank"
-    >
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="mhsmustafa84"
-            height="30"
-            width="40"
+            src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+            alt="leetcode"
         />
     </a>
 </p>
