@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mostafa Abdelhamid</h1>
-<h2 align="center">A passionate Software Developer</h2>
-<br />
+# <p align="center">Hi 👋, I'm Mostafa Abdelhamid</p>
+## <p align="center">A passionate Software Developer</p>
+
 
 <p align="center">
     <img
@@ -14,10 +14,6 @@
     <img
         src="https://img.shields.io/github/followers/mhsmustafa84?label=Followers"
         alt="mhsmustafa84"
-    />
-    <img 
-         src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=0e75b6&style=flat" 
-         alt="mhsmustafa84"
     />
 </p>
 <p align="center">
@@ -36,6 +32,12 @@
     <img
         src="https://badges.pufler.dev/commits/all/mhsmustafa84"
         alt="mhsmustafa84"
+    />
+</p>
+<p align="center">
+    <img 
+         src="https://komarev.com/ghpvc/?username=mhsmustafa84&label=Profile%20views&color=brightgreen&style=for-the-badge" 
+         alt="mhsmustafa84"
     />
 </p>
 <br />
