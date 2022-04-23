@@ -44,8 +44,7 @@
         alt="mhsmustafa84"
     />
 </p>
-
-
+<br />
 
 
 ## 💁 About me
@@ -154,10 +153,9 @@
 
 
 
-
 ## 💡 My Skills
 
-### <p align="center">▶️ Programming Languages</p>
+<p align="center">🔶 Programming Languages</p>
 <p align="center">
     <img
         alt="javascript"
@@ -187,7 +185,7 @@
 </p>
 <br />
 
-### <p align="center">▶️ Frontend Technologies</p>
+<p align="center">🔶 Frontend Technologies</p>
 <p align="center">
     <img
         alt="html"
@@ -242,7 +240,7 @@
 </p>
 <br />
 
-### <p align="center">▶️ Backend and Databases</p>
+<p align="center">🔶 Backend and Databases</p>
 <p align="center">
     <img
         alt="node.js"
@@ -272,20 +270,27 @@
 </p>
 <br />
 
-### <p align="center">▶️ Software & Tools</p>
+<p align="center">🔶 Software & Tools</p>
 <p align="center">
     <img 
-         alt="Git"
+         alt="git"
+         title="git"
          src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
     />
     <img
-         alt="GitHub"
+         alt="github"
+         title="github"
          src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img
+         alt="gitlab"
+         title="gitlab"
+         src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
     />
 </p>
 <br />
 
-### <p align="center">▶️ Mobile Technologies</p>
+<p align="center">🔶 Mobile Technologies</p>
 <p align="center">
     <img
         alt="Flutter"
@@ -294,19 +299,6 @@
     <img
         alt="React Native"
         src="https://img.shields.io/badge/React%20Native-0078d7.svg?style=for-the-badge&logo=react&nativeColor=white"
-    />
-</p>
-<br />
-
-### <p align="center">▶️ IDEs</p>
-<p align="center">
-    <img
-        alt="Visual Studio Code"
-        src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    />
-    <img
-        alt="Android Studio"
-        src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=for-the-badge&logo=android&studioColor=white"
     />
 </p>
 <br />
