@@ -70,7 +70,8 @@
     <a href="https://twitter.com/mhsmustafa84" target="blank">
         <img 
              src="https://img.shields.io/twitter/follow/mhsmustafa84?logo=twitter&style=for-the-badge" 
-             alt="mhsmustafa84" 
+             alt="twitter"
+             title="twitter"
         />
     </a>
 </p>
@@ -78,25 +79,29 @@
     <a href="mailto:mhsmustafa84@gmail.com" target="blank">
         <img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="Gmail"
+            alt="gmail"
+            title="gmail"
         />
     </a>
     <a href="https://www.linkedin.com/in/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn"
+            alt="linkedin"
+            title="linkedin"
         />
     </a>
     <a href="https://www.facebook.com/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-            alt="Facebook"
+            alt="facebook"
+            title="facebook"
         />
     </a>
     <a href="https://www.instagram.com/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Instagram"
+            alt="instagram"
+            title="instagram"
         />
     </a>
 </p>
@@ -107,36 +112,42 @@
         <img
             src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
             alt="codepen"
+            title="codepen"
         />
     </a>
     <a href="https://stackoverflow.com/users/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
             alt="stackoverflow"
+            title="stackoverflow"
         />
     </a>
     <a href="https://dev.to/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
             alt="dev.to"
+            title="dev.to"
         />
     </a>
     <a href="https://medium.com/@mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
             alt="medium"
+            title="medium"
         />
     </a>
     <a href="https://www.hackerrank.com/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
             alt="hackerrank"
+            title="hackerrank"
         />
     </a>
     <a href="https://www.leetcode.com/mhsmustafa84" target="blank">
         <img
             src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
             alt="leetcode"
+            title="leetcode"
         />
     </a>
 </p>
