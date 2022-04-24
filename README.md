@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I am <img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&duration=5000&center=true&vCenter=true&multiline=true&width=300&height=40&lines=Mostafa+Abdelhamid" /></p>
+# <p align="center">Hi 👋 <br /> I am <img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&duration=5000&center=true&vCenter=true&multiline=true&width=300&height=40&lines=Mostafa+Abdelhamid" /></p>
 
 ## <p align="center">A passionate Software Developer</p>
 
