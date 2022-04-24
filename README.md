@@ -25,23 +25,23 @@
 </p>
 <p align="center">
     <img
-        src="https://badges.pufler.dev/commits/daily/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/commits/daily/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://badges.pufler.dev/commits/weekly/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/commits/weekly/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://badges.pufler.dev/commits/monthly/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/commits/monthly/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://badges.pufler.dev/commits/yearly/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/commits/yearly/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://badges.pufler.dev/commits/all/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/commits/all/mhsmustafa84"
         alt="mhsmustafa84"
     />
 </p>
