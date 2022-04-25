@@ -25,7 +25,7 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
     <img
         src="https://badges.pufler.dev/commits/daily/mhsmustafa84?style=for-the-badge"
         alt="daily"
@@ -46,7 +46,7 @@
         src="https://badges.pufler.dev/commits/all/mhsmustafa84?style=for-the-badge"
         alt="all"
     />
-</p>
+</p> -->
 <br />
 
 
