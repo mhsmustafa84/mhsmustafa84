@@ -50,7 +50,7 @@
 <!-- <br /> -->
 
 
-## 💁 About
+## 💁‍♂️ About
 - 🔭 I’m currently working as **Frontend Developer** @ **Genovity**
 
 - 🌱 I’m currently learning **Node.js** and **Next.js**
