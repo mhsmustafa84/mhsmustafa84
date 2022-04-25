@@ -155,7 +155,7 @@
 <br />
 
 
-## 💡 My Skills
+## 💡 Languages and Tools
 
 <p align="center">
     <img
