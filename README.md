@@ -53,7 +53,7 @@
 ## 💁‍♂️ About
 - 🔭 I’m currently working as **Frontend Developer** @ **Genovity**
 
-- 🌱 I’m currently learning **Node.js** and **Next.js**
+<!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
 
 - 👨‍💻 All of my projects are available at [mostafa-abdelhamid.com](mostafa-abdelhamid.com)
 
