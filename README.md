@@ -55,7 +55,7 @@
 
 <!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
 
-- 👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="_blank">mostafa-abdelhamid.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a>
 
 - 💬 Ask me about **React**, **Angular** and **Flutter**
 
