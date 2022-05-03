@@ -1,6 +1,9 @@
-# <p align="center"><img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi+%F0%9F%91%8B;I+am+Mostafa+Abdelhamid" /></p>
+<h1 align="center">
+    <img src="http://readme-typing-svg.herokuapp.com?font=cascadia+code&size=28&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi+%F0%9F%91%8B;I+am+Mostafa+Abdelhamid" 
+     />
+</h1>
 
-## <p align="center">A passionate Software Developer</p>
+<h2 align="center">A passionate Software Developer</h2>
 
 
 <p align="center">
