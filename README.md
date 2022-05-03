@@ -348,6 +348,13 @@
     />
 </p>
 <br />
+<p align="center">
+    <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsmustafa84&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+         alt="Top Languages"
+    />
+</p>
+<br />
 
 ## 🔁 Streak Stats
 <p align="center">
@@ -361,3 +368,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=mhsmustafa84&bg_color=151515&color=fdfdfd&line=79fe96&point=fdfdfd&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 <br />
+
+
+
