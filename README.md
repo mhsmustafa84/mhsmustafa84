@@ -14,15 +14,15 @@
 </p>
 <p align="center">
     <img
-        src="https://badges.pufler.dev/years/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/years/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://badges.pufler.dev/repos/mhsmustafa84?style=for-the-badge"
+        src="https://badges.pufler.dev/repos/mhsmustafa84"
         alt="mhsmustafa84"
     />
     <img
-        src="https://img.shields.io/github/followers/mhsmustafa84?color=brightgreen&style=for-the-badge"
+        src="https://img.shields.io/github/followers/mhsmustafa84?color=brightgreen"
         alt="mhsmustafa84"
     />
 </p>
