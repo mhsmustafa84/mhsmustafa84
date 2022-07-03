@@ -13,10 +13,10 @@
     />
 </p>
 <p align="center">
-    <img
+    <!-- <img
         src="https://badges.pufler.dev/years/mhsmustafa84"
         alt="mhsmustafa84"
-    />
+    /> -->
     <img
         src="https://badges.pufler.dev/repos/mhsmustafa84"
         alt="mhsmustafa84"
