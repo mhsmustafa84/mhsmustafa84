@@ -54,7 +54,7 @@
 
 
 ## 💁‍♂️ About
-- 🔭 I’m currently working as **Frontend Developer** @ **Genovity**
+- 🔭 I have been working as **Frontend Developer** @ **Genovity**
 
 <!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
 
