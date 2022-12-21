@@ -359,11 +359,11 @@
 <br />
 
 
-## 📊 Activity Graph
+<!-- ## 📊 Activity Graph
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mhsmustafa84&bg_color=151515&color=fdfdfd&line=79fe96&point=fdfdfd&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
-<br />
+<br /> -->
 
 
 
