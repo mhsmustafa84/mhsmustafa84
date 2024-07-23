@@ -64,7 +64,7 @@
 
 - 📫 How to reach me **info@mostafa-abdelhamid.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EPX-L5HQdT8nmPeKiU4zL_nK7kSf0Ic7/view?usp=sharing](https://drive.google.com/file/d/1HdrCxEi6vGIYuIM4p9he1C_uBLEQLcPv/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1a6pF6iGZzCct4cYjpDCJGfTEv_v0PmY2/view?usp=sharing)
 
 - ⚡ Fun fact **React is still the King**
 <br />
