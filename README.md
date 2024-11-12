@@ -54,7 +54,7 @@
 
 
 ## 💁‍♂️ About
-- 🔭 I have been working as **Senior Frontend Developer** @ **Luxurion**
+- 🔭 I have been working as **Senior Frontend Developer** @ **Wakeb**
 
 <!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
 
