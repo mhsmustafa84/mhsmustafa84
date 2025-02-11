@@ -58,13 +58,13 @@
 
 <!-- - 🌱 I’m currently learning **Node.js** and **Next.js** -->
 
-- 👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a>
+<!-- - 👨‍💻 All of my projects are available at <a href="https://mostafa-abdelhamid.com" target="blank">mostafa-abdelhamid.com</a> -->
 
 - 💬 Ask me about **React**, **Next.js** and **Angular**
 
-- 📫 How to reach me **info@mostafa-abdelhamid.com**
+- 📫 How to reach me **mhsmustafa84@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1a6pF6iGZzCct4cYjpDCJGfTEv_v0PmY2/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZaxSQeqoO2m1r4rGIGVZP51uyvIQuTLo/view?usp=sharing)
 
 - ⚡ Fun fact **React is still the King**
 <br />
