@@ -3,7 +3,7 @@
      />
 </h1>
 
-<h2 align="center">A passionate Software Developer</h2>
+<h2 align="center">A motivated and growth-oriented developer with a continuous drive to learn, enhance skills, and gain hands-on experience. Actively seeking a challenging opportunity to contribute to a forward-thinking company by leveraging expertise in web development and cross-platform mobile technologies. A dedicated team player known for bringing professionalism, creativity, enthusiasm, and practical solutions that support business goals and drive innovation.</h2>
 
 
 <p align="center">
