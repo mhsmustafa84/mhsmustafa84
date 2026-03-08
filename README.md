@@ -330,7 +330,7 @@
 <br />
 
 
-## 🏆 Profile Trophies
+<!-- ## 🏆 Profile Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mhsmustafa84&theme=dark_dimmed" />
 </p>
@@ -351,6 +351,7 @@
     />
 </p>
 <br />
+-->
 
 ## 🔁 Streak Stats
 <p align="center">
